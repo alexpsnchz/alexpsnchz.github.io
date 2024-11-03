@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Álex Pérez Sánchez
+title: MSc.
 
 # Name pronunciation (optional)
 name_pronunciation: Álex Pérez Sánchez
