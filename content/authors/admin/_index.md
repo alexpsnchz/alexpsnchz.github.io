@@ -47,7 +47,8 @@ profiles:
 interests:
   - Computational Chemistry
   - Biochemistry & Biophysics
-  - Inflamatory Processes
+  - Inflammatory Processes
+  - Teaching
 
 education:
   - area: PhD in Chemistry
@@ -55,19 +56,25 @@ education:
     date_start: 2022-09-01
     date_end: 
     summary: |
-      Doctoral Thesis on _Design by biomolecular simulations of drugs for inflammatory-based diseases_. Supervised by Prof. Àngels González Lafont and Prof. José M. Lluch. 
+      Doctoral Thesis on _Design by biomolecular simulations of drugs for inflammatory-based diseases_. Supervised by Prof. Àngels González Lafont and Prof. José M. Lluch. Doctoral Program in Chemistry. 
   - area: MSc Erasmus Mundus in Theoretical Chemistry and Computational Modelling
     institution: Universitat de Barcelona
     date_start: 2021-09-01
     date_end: 2023-08-31
     summary: |
       Master Thesis on QM/MM studies. Supervised by Prof. Carles Curutchet, Prof. Àngels González-Lafont and Prof. José M. Lluch.
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc in Chemistry
+    institution: Universitat Autònoma de Barcelona
+    date_start: 2017-09-01
+    date_end: 2021-07-31
     summary: |
-      Bachelor Thesis on the study of azobencene as COX-2 light-activated inhibitors. Supervised by Prof. Àngels González-Lafont. 
+      Bachelor Thesis on the study of azobencene as COX-2 light-activated inhibitors. Supervised by Prof. Àngels González-Lafont.
+  - area: Erasmus+ in Chemistry
+    institution: Uppsala Universitet
+    date_start: 2012-01-01
+    date_end: 2021-06-31
+    summary: |
+      Bachelor's specialization in Computational Chemistry.  
     
 work:
   - position: Predoctoral Researcher
@@ -84,6 +91,14 @@ work:
     date_start: 2022-09-01
     date_end: ''
     summary: |
+  - position: Visiting PhD Student
+    company_name: Stockholms universitet
+    company_url: 'https://www.su.se/'
+    company_logo: ''
+    date_start: 2024-03-01
+    date_end: 2024-05-31
+    summary: |
+      Research Stay at Kaila Lab under the supervision of Dr. Patricia Saura and Prof. Ville R.I. Kaila.
   - position: Master Student Researcher 
     company_name: Univ. de Barcelona + Univ. Autònoma de Barcelona
     company_url: 'https://webs.uab.cat/molbiomed'
