@@ -1,5 +1,5 @@
 ---
-title: Fundamentals of Chemistry
+title: Chemistry Fundamentals 
 summary: Solving Problemes Sessions
 date: 2023-09-23
 type: docs
