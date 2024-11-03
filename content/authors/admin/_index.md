@@ -72,7 +72,7 @@ education:
   - area: Erasmus+ in Chemistry
     institution: Uppsala Universitet
     date_start: 2012-01-01
-    date_end: 2021-06-31
+    date_end: 2021-06-30
     summary: |
       Bachelor's specialization in Computational Chemistry.  
     
@@ -96,7 +96,7 @@ work:
     company_url: 'https://www.su.se/'
     company_logo: ''
     date_start: 2024-03-01
-    date_end: 2024-05-30
+    date_end: 2024-05-31
     summary: |
       Research Stay at Kaila Lab under the supervision of Dr. Patricia Saura and Prof. Ville R.I. Kaila.
   - position: Master Student Researcher 
