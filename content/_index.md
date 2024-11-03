@@ -30,22 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        My research covers several interesting topics:
-
-          (1) Photoswitches and COX-2: Investigating the mechanisms of photoswitches that can target COX-2, a protein linked to inflammation and cancer.
-          (2) Human COX-2 Dimer: Exploring the potential of the human COX-2 dimer as a new target for cancer therapy.
-          (3) Allosteric Studies of Lipoxygenases (ALOX12 and ALOX15): Using QM/MM studies to examine the reactivity and control of lipoxygenases ALOX12 and ALOX15 through allosteric binding sites.
-          (4) Inflammation-related Receptors: Focusing on LGR6 and EP4 receptors to understand their roles and therapeutic potential in inflammation.
-
-        These projects allow me to explore how these molecules work and how they could be used in future drug treatments.
-        
-    design:
-      columns: '1'
   - block: collection
     id: papers
     content:
