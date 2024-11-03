@@ -1,9 +1,9 @@
 ---
 # Display name
-title: MSc.
+title: Álex Pérez Sánchez
 
 # Name pronunciation (optional)
-name_pronunciation: Álex Pérez Sánchez
+name_pronunciation: MSc. 
 
 # Full name (for SEO)
 first_name: Álex
@@ -31,98 +31,90 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:alex.perez@uab.cat'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/aperezs_
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/alexpsnchz
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/alexpsnchz/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-3636-3885
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Chemistry
+  - Biochemistry & Biophysics
+  - Inflamatory Processes
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Chemistry
+    institution: Universitat Autònoma de Barcelona
+    date_start: 2022-09-01
+    date_end: 
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Doctoral Thesis on _Design by biomolecular simulations of drugs for inflammatory-based diseases_. Supervised by Prof. Àngels González Lafont and Prof. José M. Lluch. 
+  - area: MSc Erasmus Mundus in Theoretical Chemistry and Computational Modelling
+    institution: Universitat de Barcelona
+    date_start: 2021-09-01
+    date_end: 2023-08-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Master Thesis on QM/MM studies. Supervised by Prof. Carles Curutchet, Prof. Àngels González-Lafont and Prof. José M. Lluch.
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Bachelor Thesis on the study of azobencene as COX-2 light-activated inhibitors. Supervised by Prof. Àngels González-Lafont. 
+    
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Predoctoral Researcher
+    company_name: MolBioMed Research Group
+    company_url: 'https://webs.uab.cat/molbiomed'
+    company_logo: 'https://webs.uab.cat/molbiomed/wp-content/uploads/sites/355/2023/03/logo_psi_redim.png'
+    date_start: 2022-09-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Teaching Assistant 
+    company_name: Universitat Autònoma de Barcelona
+    company_url: 'https://www.uab.cat'
+    company_logo: 'https://www.uab.cat/ca/identitatcorporativa/doc/logotipuab-v1-verd.png'
+    date_start: 2022-09-01
+    date_end: ''
+    summary: |
+  - position: Master Student Researcher 
+    company_name: Univ. de Barcelona + Univ. Autònoma de Barcelona
+    company_url: 'https://webs.uab.cat/molbiomed'
+    company_logo: 'https://webs.uab.cat/molbiomed/wp-content/uploads/sites/355/2023/03/logo_psi_redim.png'
+    date_start: 2022-09-01
+    date_end: 2023-07-31
+    summary: |
+  - position: Undergraduate Researcher 
+    company_name: Universitat Autònoma de Barcelona
+    company_url: 'https://webs.uab.cat/molbiomed'
+    company_logo: 'https://webs.uab.cat/molbiomed/wp-content/uploads/sites/355/2023/03/logo_psi_redim.png'
+    date_start: 2020-09-01
+    date_end: 2021-07-31
+    summary: |
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+      - name: Molecular Dynamics Simulations
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: code-bracket
+      - name: QM/MM Methods
         description: ''
-        percent: 40
+        percent: 70
+        icon: chart-bar
+      - name: Drug Design
+        description: ''
+        percent: 60
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -142,45 +134,16 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Spanish
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Catalan
+    percent: 100
+  - name: English
+    percent: 80
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm Álex Pérez-Sánchez, a researcher and PhD candidate in Theoretical and Computational Chemistry at the Universitat Autònoma de Barcelona. I started my journey in chemistry here, earning my Bachelor’s degree, and later completed a Master’s in Theoretical Chemistry and Computational Modeling at the Universitat de Barcelona. Right now, I’m working on the computational study of inflammatory processes, aiming to support the development of new drugs, with guidance from Professors Àngels González Lafont and José María Lluch López in the MolBioMed Research Group.
