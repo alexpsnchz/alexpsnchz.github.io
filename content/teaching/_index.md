@@ -16,7 +16,7 @@ sections:
       title: Academic Year 2024/2025
       filters:
         folders:
-          - teaching
+          - teaching_2425
     design:
       view: article-grid
       columns: 3
