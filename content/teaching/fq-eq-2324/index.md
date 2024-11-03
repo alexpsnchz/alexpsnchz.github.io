@@ -17,7 +17,6 @@ I teach for the _Solving Problems Sessions_ together with Dr. Gerard Pareras Nie
 
 ## Contents
 
-Content
 **Part I: Basic Concepts**
 
 - Unit 1: Matter and Chemical Compounds. Matter and substance. Properties of matter. Measurement of properties. Basic laws of chemistry. Mole. Isotopes. Molecular mass. Compossition. Empirical and molecular formulae. Solutions. Oxidation states. Naming and formulation of inorganic compounds.
