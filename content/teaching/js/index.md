@@ -1,6 +1,6 @@
 ---
 title: Fonaments de Química
-summary: Classes de Problemes
+summary: Problems Sessions
 date: 2023-09-23
 type: docs
 math: false
