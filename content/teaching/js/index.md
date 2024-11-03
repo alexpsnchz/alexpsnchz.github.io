@@ -6,6 +6,5 @@ type: docs
 math: false
 tags:
   - Grau de Enginyeria Química
-  - Problemes
 ---
 
