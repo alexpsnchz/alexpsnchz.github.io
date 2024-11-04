@@ -1,6 +1,7 @@
 ---
 title: Thermodynamics, Kinetics and Phase Transformations
 summary: Laboratory Assitance
+date: 2022-09-01
 type: docs
 math: false
 tags:
